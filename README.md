@@ -24,7 +24,7 @@ I'm passionate about Web Development,Game Development and I love using technolog
 
 On my GitHub, you'll find a variety of projects that showcase my skills and interests. Some of my recent projects include:
 
-[LifeLine.com](https://github.com/shivamrathore513/LifeLine): This is a healthcare platform where you can browse doctors, manage profiles, and book appointments.<br/>
+[LifeLine](https://github.com/shivamrathore513/LifeLine): This is a healthcare platform where you can browse doctors, manage profiles, and book appointments.<br/>
 
 <h2>🛠️ Tools and Technologies</h2>
 
